@@ -1,0 +1,5 @@
+#avoid upload files don nedded
+scriptbck
+.git
+.vscode
+backup.log
